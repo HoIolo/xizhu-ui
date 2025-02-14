@@ -1,0 +1,15 @@
+{
+  "files": [],
+  "compilerOptions": {
+    // ...
+    "types": ["unplugin-vue-define-options/macros-global" /* ... */]
+  },
+  "references": [
+    {
+      "path": "./tsconfig.node.json"
+    },
+    {
+      "path": "./tsconfig.app.json"
+    }
+  ]
+}
