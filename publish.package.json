@@ -1,0 +1,17 @@
+{
+    "name": "xizhu-ui",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": ["ui", "vue3"],
+    "author": "xizhu",
+    "license": "ISC",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/HoIolo/xizhu-ui"
+    },
+    "description": "个人开发适用于vue3的UI组件库"
+  }
+  

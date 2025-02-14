@@ -15,10 +15,10 @@ export default defineConfig({
   build: {
     lib: {
       entry: fileURLToPath(new URL('./src/package/index.ts', import.meta.url)),
+      fileName: 'index',
       name: 'xizhu-ui',
-      fileName: 'xizhu-ui'
     },
-    outDir: 'xizhu-ui',
+    outDir: 'dist',
   },
   resolve: {
     alias: {
